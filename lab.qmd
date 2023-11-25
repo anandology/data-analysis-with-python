@@ -1,0 +1,7 @@
+# Jupyter Lab
+
+A Jupyter Lab instance is setup for every participant of this training using Jupyter Hub.
+
+You can login the lab at URL: https://perfios-lab.pipal.in/.
+
+The credentials to login are shared with you on email.

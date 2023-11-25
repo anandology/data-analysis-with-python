@@ -1,0 +1,15 @@
+# Schedule
+
+The course is planned over 6 sessions, starting from Nov 16, 2023.
+
+Each session will be of two hours duration from 9:30 AM to 11:30 AM.
+
+`#` | Week | Day | Date | Title
+---|---|---|---|---
+1 | Week 1 | Thursday | Nov 16 | Session 1
+2 | Week 2| Monday | Nov 20 | Session 2
+3 | | Thursday | Nov 23 | Session 3
+4 | Week 3 | Monday | Nov 27 | Session 4
+5 | | Thursday | Nov 30 | Session 5
+6 | Week 4 | Monday | Dec 04 | Session 6
+

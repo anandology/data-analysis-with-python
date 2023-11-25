@@ -1,0 +1,52 @@
+# Syllabus
+
+## Session 1: Introduction to Data Analysis & Numpy
+
+* Introduction to Data Analysis
+* The Python Data Stack
+* Introduction to Numpy
+* Thinking in Arrays
+* Slicing & Broadcasting
+* Boolean Indexing
+
+## Session 2: Introduction to Pandas
+
+* Introduction to Pandas
+* Series & Dataframes
+* Reading CSV files
+* Selecting & Indexing
+* Vector Operations
+
+## Session 3: Data Wrangling
+
+* Reshaping Data
+* Creating subsets of of data
+* Handling missing values
+* Summarizing data
+* Sorting & Filtering
+* Group by & Pivot
+* Merging Datasets & Concat, Merge & Join
+
+## Session 4: Data Visualization
+
+* Introduction to Data Visualization
+* Line Charts & Bar Charts
+* Scatter Plots
+* Box Plot
+* Plotting multiple charts
+* Advanced Visualiation using Seaborn
+
+## Session 5: Building Dashboards with Streamlit
+
+* Introduction to Streamlit
+* Working with Widgets
+* Adding Visualizations
+* Interactive Controls
+
+## Session 6: Best Practices
+
+* Advanced patterns of working with data
+* Working with large datasets
+* Building data pipelines
+* Testing pandas code
+* Best practices
