@@ -1,0 +1,143 @@
+country,continent,iso_alpha,iso_num
+Afghanistan,Asia,AFG,4
+Albania,Europe,ALB,8
+Algeria,Africa,DZA,12
+Angola,Africa,AGO,24
+Argentina,Americas,ARG,32
+Australia,Oceania,AUS,36
+Austria,Europe,AUT,40
+Bahrain,Asia,BHR,48
+Bangladesh,Asia,BGD,50
+Belgium,Europe,BEL,56
+Benin,Africa,BEN,204
+Bolivia,Americas,BOL,68
+Bosnia and Herzegovina,Europe,BIH,70
+Botswana,Africa,BWA,72
+Brazil,Americas,BRA,76
+Bulgaria,Europe,BGR,100
+Burkina Faso,Africa,BFA,854
+Burundi,Africa,BDI,108
+Cambodia,Asia,KHM,116
+Cameroon,Africa,CMR,120
+Canada,Americas,CAN,124
+Central African Republic,Africa,CAF,140
+Chad,Africa,TCD,148
+Chile,Americas,CHL,152
+China,Asia,CHN,156
+Colombia,Americas,COL,170
+Comoros,Africa,COM,174
+"Congo, Dem. Rep.",Africa,COD,180
+"Congo, Rep.",Africa,COG,178
+Costa Rica,Americas,CRI,188
+Cote d'Ivoire,Africa,CIV,384
+Croatia,Europe,HRV,191
+Cuba,Americas,CUB,192
+Czech Republic,Europe,CZE,203
+Denmark,Europe,DNK,208
+Djibouti,Africa,DJI,262
+Dominican Republic,Americas,DOM,214
+Ecuador,Americas,ECU,218
+Egypt,Africa,EGY,818
+El Salvador,Americas,SLV,222
+Equatorial Guinea,Africa,GNQ,226
+Eritrea,Africa,ERI,232
+Ethiopia,Africa,ETH,231
+Finland,Europe,FIN,246
+France,Europe,FRA,250
+Gabon,Africa,GAB,266
+Gambia,Africa,GMB,270
+Germany,Europe,DEU,276
+Ghana,Africa,GHA,288
+Greece,Europe,GRC,300
+Guatemala,Americas,GTM,320
+Guinea,Africa,GIN,324
+Guinea-Bissau,Africa,GNB,624
+Haiti,Americas,HTI,332
+Honduras,Americas,HND,340
+"Hong Kong, China",Asia,HKG,344
+Hungary,Europe,HUN,348
+Iceland,Europe,ISL,352
+India,Asia,IND,356
+Indonesia,Asia,IDN,360
+Iran,Asia,IRN,364
+Iraq,Asia,IRQ,368
+Ireland,Europe,IRL,372
+Israel,Asia,ISR,376
+Italy,Europe,ITA,380
+Jamaica,Americas,JAM,388
+Japan,Asia,JPN,392
+Jordan,Asia,JOR,400
+Kenya,Africa,KEN,404
+"Korea, Dem. Rep.",Asia,KOR,410
+"Korea, Rep.",Asia,KOR,410
+Kuwait,Asia,KWT,414
+Lebanon,Asia,LBN,422
+Lesotho,Africa,LSO,426
+Liberia,Africa,LBR,430
+Libya,Africa,LBY,434
+Madagascar,Africa,MDG,450
+Malawi,Africa,MWI,454
+Malaysia,Asia,MYS,458
+Mali,Africa,MLI,466
+Mauritania,Africa,MRT,478
+Mauritius,Africa,MUS,480
+Mexico,Americas,MEX,484
+Mongolia,Asia,MNG,496
+Montenegro,Europe,MNE,499
+Morocco,Africa,MAR,504
+Mozambique,Africa,MOZ,508
+Myanmar,Asia,MMR,104
+Namibia,Africa,NAM,516
+Nepal,Asia,NPL,524
+Netherlands,Europe,NLD,528
+New Zealand,Oceania,NZL,554
+Nicaragua,Americas,NIC,558
+Niger,Africa,NER,562
+Nigeria,Africa,NGA,566
+Norway,Europe,NOR,578
+Oman,Asia,OMN,512
+Pakistan,Asia,PAK,586
+Panama,Americas,PAN,591
+Paraguay,Americas,PRY,600
+Peru,Americas,PER,604
+Philippines,Asia,PHL,608
+Poland,Europe,POL,616
+Portugal,Europe,PRT,620
+Puerto Rico,Americas,PRI,630
+Reunion,Africa,REU,638
+Romania,Europe,ROU,642
+Rwanda,Africa,RWA,646
+Sao Tome and Principe,Africa,STP,678
+Saudi Arabia,Asia,SAU,682
+Senegal,Africa,SEN,686
+Serbia,Europe,SRB,688
+Sierra Leone,Africa,SLE,694
+Singapore,Asia,SGP,702
+Slovak Republic,Europe,SVK,703
+Slovenia,Europe,SVN,705
+Somalia,Africa,SOM,706
+South Africa,Africa,ZAF,710
+Spain,Europe,ESP,724
+Sri Lanka,Asia,LKA,144
+Sudan,Africa,SDN,736
+Swaziland,Africa,SWZ,748
+Sweden,Europe,SWE,752
+Switzerland,Europe,CHE,756
+Syria,Asia,SYR,760
+Taiwan,Asia,TWN,158
+Tanzania,Africa,TZA,834
+Thailand,Asia,THA,764
+Togo,Africa,TGO,768
+Trinidad and Tobago,Americas,TTO,780
+Tunisia,Africa,TUN,788
+Turkey,Europe,TUR,792
+Uganda,Africa,UGA,800
+United Kingdom,Europe,GBR,826
+United States,Americas,USA,840
+Uruguay,Americas,URY,858
+Venezuela,Americas,VEN,862
+Vietnam,Asia,VNM,704
+West Bank and Gaza,Asia,PSE,275
+"Yemen, Rep.",Asia,YEM,887
+Zambia,Africa,ZMB,894
+Zimbabwe,Africa,ZWE,716

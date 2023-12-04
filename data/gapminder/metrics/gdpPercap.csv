@@ -1,0 +1,1705 @@
+continent,country,year,gdpPercap
+Asia,Afghanistan,1952,779.4453145
+Asia,Afghanistan,1957,820.8530296
+Asia,Afghanistan,1962,853.1007099999998
+Asia,Afghanistan,1967,836.1971382
+Asia,Afghanistan,1972,739.9811057999998
+Asia,Afghanistan,1977,786.11336
+Asia,Afghanistan,1982,978.0114388
+Asia,Afghanistan,1987,852.3959447999998
+Asia,Afghanistan,1992,649.3413952000002
+Asia,Afghanistan,1997,635.341351
+Asia,Afghanistan,2002,726.7340548
+Asia,Afghanistan,2007,974.5803384
+Europe,Albania,1952,1601.056136
+Europe,Albania,1957,1942.284244
+Europe,Albania,1962,2312.888958
+Europe,Albania,1967,2760.196931
+Europe,Albania,1972,3313.422188
+Europe,Albania,1977,3533.003910000001
+Europe,Albania,1982,3630.880722
+Europe,Albania,1987,3738.932735
+Europe,Albania,1992,2497.437901
+Europe,Albania,1997,3193.054604
+Europe,Albania,2002,4604.211737
+Europe,Albania,2007,5937.029525999998
+Africa,Algeria,1952,2449.008185
+Africa,Algeria,1957,3013.976023
+Africa,Algeria,1962,2550.81688
+Africa,Algeria,1967,3246.991771
+Africa,Algeria,1972,4182.663766
+Africa,Algeria,1977,4910.416756000001
+Africa,Algeria,1982,5745.160213
+Africa,Algeria,1987,5681.358539
+Africa,Algeria,1992,5023.216647
+Africa,Algeria,1997,4797.295051
+Africa,Algeria,2002,5288.040382
+Africa,Algeria,2007,6223.367465
+Africa,Angola,1952,3520.610273
+Africa,Angola,1957,3827.940465
+Africa,Angola,1962,4269.276742
+Africa,Angola,1967,5522.776375
+Africa,Angola,1972,5473.288004999999
+Africa,Angola,1977,3008.647355
+Africa,Angola,1982,2756.953672
+Africa,Angola,1987,2430.208311
+Africa,Angola,1992,2627.845685
+Africa,Angola,1997,2277.140884
+Africa,Angola,2002,2773.287312
+Africa,Angola,2007,4797.231267
+Americas,Argentina,1952,5911.315053
+Americas,Argentina,1957,6856.8562120000015
+Americas,Argentina,1962,7133.166023000002
+Americas,Argentina,1967,8052.953020999998
+Americas,Argentina,1972,9443.038526
+Americas,Argentina,1977,10079.02674
+Americas,Argentina,1982,8997.897412
+Americas,Argentina,1987,9139.671389
+Americas,Argentina,1992,9308.41871
+Americas,Argentina,1997,10967.28195
+Americas,Argentina,2002,8797.640716
+Americas,Argentina,2007,12779.37964
+Oceania,Australia,1952,10039.59564
+Oceania,Australia,1957,10949.64959
+Oceania,Australia,1962,12217.22686
+Oceania,Australia,1967,14526.12465
+Oceania,Australia,1972,16788.62948
+Oceania,Australia,1977,18334.19751
+Oceania,Australia,1982,19477.00928
+Oceania,Australia,1987,21888.88903
+Oceania,Australia,1992,23424.76683
+Oceania,Australia,1997,26997.93657
+Oceania,Australia,2002,30687.75473
+Oceania,Australia,2007,34435.367439999995
+Europe,Austria,1952,6137.076492
+Europe,Austria,1957,8842.59803
+Europe,Austria,1962,10750.72111
+Europe,Austria,1967,12834.6024
+Europe,Austria,1972,16661.6256
+Europe,Austria,1977,19749.4223
+Europe,Austria,1982,21597.08362
+Europe,Austria,1987,23687.82607
+Europe,Austria,1992,27042.01868
+Europe,Austria,1997,29095.920660000003
+Europe,Austria,2002,32417.60769
+Europe,Austria,2007,36126.4927
+Asia,Bahrain,1952,9867.084765
+Asia,Bahrain,1957,11635.79945
+Asia,Bahrain,1962,12753.27514
+Asia,Bahrain,1967,14804.6727
+Asia,Bahrain,1972,18268.65839
+Asia,Bahrain,1977,19340.10196
+Asia,Bahrain,1982,19211.14731
+Asia,Bahrain,1987,18524.02406
+Asia,Bahrain,1992,19035.57917
+Asia,Bahrain,1997,20292.01679
+Asia,Bahrain,2002,23403.55927
+Asia,Bahrain,2007,29796.04834
+Asia,Bangladesh,1952,684.2441716
+Asia,Bangladesh,1957,661.6374577
+Asia,Bangladesh,1962,686.3415537999998
+Asia,Bangladesh,1967,721.1860862000002
+Asia,Bangladesh,1972,630.2336265
+Asia,Bangladesh,1977,659.8772322000002
+Asia,Bangladesh,1982,676.9818656
+Asia,Bangladesh,1987,751.9794035
+Asia,Bangladesh,1992,837.8101642999999
+Asia,Bangladesh,1997,972.7700352
+Asia,Bangladesh,2002,1136.3904300000004
+Asia,Bangladesh,2007,1391.253792
+Europe,Belgium,1952,8343.105126999999
+Europe,Belgium,1957,9714.960623
+Europe,Belgium,1962,10991.20676
+Europe,Belgium,1967,13149.04119
+Europe,Belgium,1972,16672.14356
+Europe,Belgium,1977,19117.97448
+Europe,Belgium,1982,20979.84589
+Europe,Belgium,1987,22525.56308
+Europe,Belgium,1992,25575.57069
+Europe,Belgium,1997,27561.19663
+Europe,Belgium,2002,30485.88375
+Europe,Belgium,2007,33692.60508
+Africa,Benin,1952,1062.7522
+Africa,Benin,1957,959.6010805
+Africa,Benin,1962,949.4990641
+Africa,Benin,1967,1035.831411
+Africa,Benin,1972,1085.796879
+Africa,Benin,1977,1029.161251
+Africa,Benin,1982,1277.897616
+Africa,Benin,1987,1225.85601
+Africa,Benin,1992,1191.207681
+Africa,Benin,1997,1232.975292
+Africa,Benin,2002,1372.877931
+Africa,Benin,2007,1441.284873
+Americas,Bolivia,1952,2677.326347
+Americas,Bolivia,1957,2127.686326
+Americas,Bolivia,1962,2180.972546
+Americas,Bolivia,1967,2586.886053
+Americas,Bolivia,1972,2980.331339
+Americas,Bolivia,1977,3548.097832
+Americas,Bolivia,1982,3156.510452
+Americas,Bolivia,1987,2753.69149
+Americas,Bolivia,1992,2961.699694
+Americas,Bolivia,1997,3326.143191
+Americas,Bolivia,2002,3413.26269
+Americas,Bolivia,2007,3822.137084
+Europe,Bosnia and Herzegovina,1952,973.5331948
+Europe,Bosnia and Herzegovina,1957,1353.989176
+Europe,Bosnia and Herzegovina,1962,1709.683679
+Europe,Bosnia and Herzegovina,1967,2172.3524230000007
+Europe,Bosnia and Herzegovina,1972,2860.16975
+Europe,Bosnia and Herzegovina,1977,3528.481305
+Europe,Bosnia and Herzegovina,1982,4126.613157
+Europe,Bosnia and Herzegovina,1987,4314.114757
+Europe,Bosnia and Herzegovina,1992,2546.781445
+Europe,Bosnia and Herzegovina,1997,4766.355904
+Europe,Bosnia and Herzegovina,2002,6018.975239
+Europe,Bosnia and Herzegovina,2007,7446.298803
+Africa,Botswana,1952,851.2411407
+Africa,Botswana,1957,918.2325349
+Africa,Botswana,1962,983.6539764
+Africa,Botswana,1967,1214.709294
+Africa,Botswana,1972,2263.6111140000007
+Africa,Botswana,1977,3214.857818
+Africa,Botswana,1982,4551.14215
+Africa,Botswana,1987,6205.88385
+Africa,Botswana,1992,7954.111645
+Africa,Botswana,1997,8647.142313
+Africa,Botswana,2002,11003.60508
+Africa,Botswana,2007,12569.85177
+Americas,Brazil,1952,2108.944355
+Americas,Brazil,1957,2487.365989
+Americas,Brazil,1962,3336.585802
+Americas,Brazil,1967,3429.864357
+Americas,Brazil,1972,4985.711467
+Americas,Brazil,1977,6660.118654
+Americas,Brazil,1982,7030.835878
+Americas,Brazil,1987,7807.095818000002
+Americas,Brazil,1992,6950.283020999998
+Americas,Brazil,1997,7957.980823999998
+Americas,Brazil,2002,8131.212843000001
+Americas,Brazil,2007,9065.800825
+Europe,Bulgaria,1952,2444.286648
+Europe,Bulgaria,1957,3008.670727
+Europe,Bulgaria,1962,4254.337839
+Europe,Bulgaria,1967,5577.0028
+Europe,Bulgaria,1972,6597.494398
+Europe,Bulgaria,1977,7612.240438
+Europe,Bulgaria,1982,8224.191647
+Europe,Bulgaria,1987,8239.854824
+Europe,Bulgaria,1992,6302.623438000001
+Europe,Bulgaria,1997,5970.38876
+Europe,Bulgaria,2002,7696.777725
+Europe,Bulgaria,2007,10680.79282
+Africa,Burkina Faso,1952,543.2552413
+Africa,Burkina Faso,1957,617.1834647999998
+Africa,Burkina Faso,1962,722.5120206
+Africa,Burkina Faso,1967,794.8265597
+Africa,Burkina Faso,1972,854.7359763000002
+Africa,Burkina Faso,1977,743.3870368
+Africa,Burkina Faso,1982,807.1985855
+Africa,Burkina Faso,1987,912.0631417
+Africa,Burkina Faso,1992,931.7527731
+Africa,Burkina Faso,1997,946.2949618
+Africa,Burkina Faso,2002,1037.645221
+Africa,Burkina Faso,2007,1217.032994
+Africa,Burundi,1952,339.2964587
+Africa,Burundi,1957,379.5646281000001
+Africa,Burundi,1962,355.2032273
+Africa,Burundi,1967,412.97751360000007
+Africa,Burundi,1972,464.0995039
+Africa,Burundi,1977,556.1032651
+Africa,Burundi,1982,559.6032309999998
+Africa,Burundi,1987,621.8188188999999
+Africa,Burundi,1992,631.6998778
+Africa,Burundi,1997,463.1151478
+Africa,Burundi,2002,446.4035126
+Africa,Burundi,2007,430.0706916
+Asia,Cambodia,1952,368.4692856
+Asia,Cambodia,1957,434.0383364
+Asia,Cambodia,1962,496.9136476
+Asia,Cambodia,1967,523.4323142
+Asia,Cambodia,1972,421.6240257
+Asia,Cambodia,1977,524.9721831999999
+Asia,Cambodia,1982,624.4754784
+Asia,Cambodia,1987,683.8955732000002
+Asia,Cambodia,1992,682.3031755
+Asia,Cambodia,1997,734.28517
+Asia,Cambodia,2002,896.2260152999999
+Asia,Cambodia,2007,1713.778686
+Africa,Cameroon,1952,1172.667655
+Africa,Cameroon,1957,1313.048099
+Africa,Cameroon,1962,1399.607441
+Africa,Cameroon,1967,1508.453148
+Africa,Cameroon,1972,1684.1465280000002
+Africa,Cameroon,1977,1783.432873
+Africa,Cameroon,1982,2367.983282
+Africa,Cameroon,1987,2602.664206
+Africa,Cameroon,1992,1793.1632780000002
+Africa,Cameroon,1997,1694.337469
+Africa,Cameroon,2002,1934.011449
+Africa,Cameroon,2007,2042.09524
+Americas,Canada,1952,11367.16112
+Americas,Canada,1957,12489.95006
+Americas,Canada,1962,13462.48555
+Americas,Canada,1967,16076.58803
+Americas,Canada,1972,18970.57086
+Americas,Canada,1977,22090.88306
+Americas,Canada,1982,22898.79214
+Americas,Canada,1987,26626.51503
+Americas,Canada,1992,26342.88426
+Americas,Canada,1997,28954.92589
+Americas,Canada,2002,33328.96507
+Americas,Canada,2007,36319.23501
+Africa,Central African Republic,1952,1071.310713
+Africa,Central African Republic,1957,1190.844328
+Africa,Central African Republic,1962,1193.068753
+Africa,Central African Republic,1967,1136.056615
+Africa,Central African Republic,1972,1070.013275
+Africa,Central African Republic,1977,1109.374338
+Africa,Central African Republic,1982,956.7529907
+Africa,Central African Republic,1987,844.8763504000002
+Africa,Central African Republic,1992,747.9055252
+Africa,Central African Republic,1997,740.5063317
+Africa,Central African Republic,2002,738.6906068
+Africa,Central African Republic,2007,706.016537
+Africa,Chad,1952,1178.665927
+Africa,Chad,1957,1308.495577
+Africa,Chad,1962,1389.817618
+Africa,Chad,1967,1196.810565
+Africa,Chad,1972,1104.103987
+Africa,Chad,1977,1133.98495
+Africa,Chad,1982,797.9081006
+Africa,Chad,1987,952.386129
+Africa,Chad,1992,1058.0643
+Africa,Chad,1997,1004.961353
+Africa,Chad,2002,1156.18186
+Africa,Chad,2007,1704.063724
+Americas,Chile,1952,3939.978789
+Americas,Chile,1957,4315.622723
+Americas,Chile,1962,4519.094331
+Americas,Chile,1967,5106.654313
+Americas,Chile,1972,5494.024437
+Americas,Chile,1977,4756.763836
+Americas,Chile,1982,5095.6657380000015
+Americas,Chile,1987,5547.063754
+Americas,Chile,1992,7596.125964
+Americas,Chile,1997,10118.05318
+Americas,Chile,2002,10778.78385
+Americas,Chile,2007,13171.63885
+Asia,China,1952,400.448611
+Asia,China,1957,575.9870009
+Asia,China,1962,487.6740183
+Asia,China,1967,612.7056934
+Asia,China,1972,676.9000921
+Asia,China,1977,741.2374699
+Asia,China,1982,962.4213805
+Asia,China,1987,1378.904018
+Asia,China,1992,1655.784158
+Asia,China,1997,2289.234136
+Asia,China,2002,3119.280896
+Asia,China,2007,4959.114854
+Americas,Colombia,1952,2144.115096
+Americas,Colombia,1957,2323.805581
+Americas,Colombia,1962,2492.351109
+Americas,Colombia,1967,2678.729839
+Americas,Colombia,1972,3264.660041
+Americas,Colombia,1977,3815.80787
+Americas,Colombia,1982,4397.575659
+Americas,Colombia,1987,4903.2191
+Americas,Colombia,1992,5444.648617
+Americas,Colombia,1997,6117.361746000001
+Americas,Colombia,2002,5755.259962
+Americas,Colombia,2007,7006.580419
+Africa,Comoros,1952,1102.990936
+Africa,Comoros,1957,1211.148548
+Africa,Comoros,1962,1406.648278
+Africa,Comoros,1967,1876.029643
+Africa,Comoros,1972,1937.577675
+Africa,Comoros,1977,1172.603047
+Africa,Comoros,1982,1267.100083
+Africa,Comoros,1987,1315.980812
+Africa,Comoros,1992,1246.90737
+Africa,Comoros,1997,1173.618235
+Africa,Comoros,2002,1075.811558
+Africa,Comoros,2007,986.1478792
+Africa,"Congo, Dem. Rep.",1952,780.5423257
+Africa,"Congo, Dem. Rep.",1957,905.8602303
+Africa,"Congo, Dem. Rep.",1962,896.3146335000001
+Africa,"Congo, Dem. Rep.",1967,861.5932424
+Africa,"Congo, Dem. Rep.",1972,904.8960685
+Africa,"Congo, Dem. Rep.",1977,795.757282
+Africa,"Congo, Dem. Rep.",1982,673.7478181
+Africa,"Congo, Dem. Rep.",1987,672.774812
+Africa,"Congo, Dem. Rep.",1992,457.7191807
+Africa,"Congo, Dem. Rep.",1997,312.188423
+Africa,"Congo, Dem. Rep.",2002,241.1658765
+Africa,"Congo, Dem. Rep.",2007,277.5518587
+Africa,"Congo, Rep.",1952,2125.621418
+Africa,"Congo, Rep.",1957,2315.056572
+Africa,"Congo, Rep.",1962,2464.783157
+Africa,"Congo, Rep.",1967,2677.9396420000007
+Africa,"Congo, Rep.",1972,3213.152683
+Africa,"Congo, Rep.",1977,3259.178978
+Africa,"Congo, Rep.",1982,4879.507522
+Africa,"Congo, Rep.",1987,4201.194936999998
+Africa,"Congo, Rep.",1992,4016.239529
+Africa,"Congo, Rep.",1997,3484.164376
+Africa,"Congo, Rep.",2002,3484.06197
+Africa,"Congo, Rep.",2007,3632.557798
+Americas,Costa Rica,1952,2627.0094710000008
+Americas,Costa Rica,1957,2990.010802
+Americas,Costa Rica,1962,3460.937025
+Americas,Costa Rica,1967,4161.727834
+Americas,Costa Rica,1972,5118.146939
+Americas,Costa Rica,1977,5926.876967
+Americas,Costa Rica,1982,5262.734751
+Americas,Costa Rica,1987,5629.915318
+Americas,Costa Rica,1992,6160.416317
+Americas,Costa Rica,1997,6677.045314
+Americas,Costa Rica,2002,7723.447195000002
+Americas,Costa Rica,2007,9645.06142
+Africa,Cote d'Ivoire,1952,1388.594732
+Africa,Cote d'Ivoire,1957,1500.895925
+Africa,Cote d'Ivoire,1962,1728.8694280000002
+Africa,Cote d'Ivoire,1967,2052.050473
+Africa,Cote d'Ivoire,1972,2378.201111
+Africa,Cote d'Ivoire,1977,2517.736547
+Africa,Cote d'Ivoire,1982,2602.710169
+Africa,Cote d'Ivoire,1987,2156.9560690000008
+Africa,Cote d'Ivoire,1992,1648.073791
+Africa,Cote d'Ivoire,1997,1786.265407
+Africa,Cote d'Ivoire,2002,1648.800823
+Africa,Cote d'Ivoire,2007,1544.750112
+Europe,Croatia,1952,3119.23652
+Europe,Croatia,1957,4338.231617
+Europe,Croatia,1962,5477.890018
+Europe,Croatia,1967,6960.297861
+Europe,Croatia,1972,9164.090127
+Europe,Croatia,1977,11305.38517
+Europe,Croatia,1982,13221.82184
+Europe,Croatia,1987,13822.58394
+Europe,Croatia,1992,8447.794873
+Europe,Croatia,1997,9875.604515
+Europe,Croatia,2002,11628.38895
+Europe,Croatia,2007,14619.222719999998
+Americas,Cuba,1952,5586.53878
+Americas,Cuba,1957,6092.1743590000015
+Americas,Cuba,1962,5180.75591
+Americas,Cuba,1967,5690.268015
+Americas,Cuba,1972,5305.445256
+Americas,Cuba,1977,6380.494965999998
+Americas,Cuba,1982,7316.918106999998
+Americas,Cuba,1987,7532.924762999999
+Americas,Cuba,1992,5592.843963
+Americas,Cuba,1997,5431.990415
+Americas,Cuba,2002,6340.646683
+Americas,Cuba,2007,8948.102923
+Europe,Czech Republic,1952,6876.14025
+Europe,Czech Republic,1957,8256.343918
+Europe,Czech Republic,1962,10136.86713
+Europe,Czech Republic,1967,11399.44489
+Europe,Czech Republic,1972,13108.4536
+Europe,Czech Republic,1977,14800.16062
+Europe,Czech Republic,1982,15377.22855
+Europe,Czech Republic,1987,16310.4434
+Europe,Czech Republic,1992,14297.02122
+Europe,Czech Republic,1997,16048.51424
+Europe,Czech Republic,2002,17596.210219999994
+Europe,Czech Republic,2007,22833.30851
+Europe,Denmark,1952,9692.385245
+Europe,Denmark,1957,11099.65935
+Europe,Denmark,1962,13583.31351
+Europe,Denmark,1967,15937.21123
+Europe,Denmark,1972,18866.20721
+Europe,Denmark,1977,20422.9015
+Europe,Denmark,1982,21688.04048
+Europe,Denmark,1987,25116.17581
+Europe,Denmark,1992,26406.73985
+Europe,Denmark,1997,29804.34567
+Europe,Denmark,2002,32166.50006
+Europe,Denmark,2007,35278.41874
+Africa,Djibouti,1952,2669.529475
+Africa,Djibouti,1957,2864.9690760000008
+Africa,Djibouti,1962,3020.989263
+Africa,Djibouti,1967,3020.050513
+Africa,Djibouti,1972,3694.2123520000014
+Africa,Djibouti,1977,3081.761022
+Africa,Djibouti,1982,2879.468067
+Africa,Djibouti,1987,2880.102568
+Africa,Djibouti,1992,2377.156192000001
+Africa,Djibouti,1997,1895.016984
+Africa,Djibouti,2002,1908.260867
+Africa,Djibouti,2007,2082.4815670000007
+Americas,Dominican Republic,1952,1397.717137
+Americas,Dominican Republic,1957,1544.402995
+Americas,Dominican Republic,1962,1662.137359
+Americas,Dominican Republic,1967,1653.7230029999996
+Americas,Dominican Republic,1972,2189.874499
+Americas,Dominican Republic,1977,2681.9889
+Americas,Dominican Republic,1982,2861.092386
+Americas,Dominican Republic,1987,2899.842175
+Americas,Dominican Republic,1992,3044.214214
+Americas,Dominican Republic,1997,3614.101285
+Americas,Dominican Republic,2002,4563.808154
+Americas,Dominican Republic,2007,6025.3747520000015
+Americas,Ecuador,1952,3522.110717
+Americas,Ecuador,1957,3780.546651
+Americas,Ecuador,1962,4086.114078
+Americas,Ecuador,1967,4579.074215
+Americas,Ecuador,1972,5280.99471
+Americas,Ecuador,1977,6679.62326
+Americas,Ecuador,1982,7213.791267
+Americas,Ecuador,1987,6481.776993
+Americas,Ecuador,1992,7103.702595000002
+Americas,Ecuador,1997,7429.4558769999985
+Americas,Ecuador,2002,5773.044512
+Americas,Ecuador,2007,6873.262326000001
+Africa,Egypt,1952,1418.822445
+Africa,Egypt,1957,1458.915272
+Africa,Egypt,1962,1693.335853
+Africa,Egypt,1967,1814.880728
+Africa,Egypt,1972,2024.008147
+Africa,Egypt,1977,2785.493582
+Africa,Egypt,1982,3503.729636
+Africa,Egypt,1987,3885.46071
+Africa,Egypt,1992,3794.755195
+Africa,Egypt,1997,4173.181797
+Africa,Egypt,2002,4754.604414
+Africa,Egypt,2007,5581.180998
+Americas,El Salvador,1952,3048.3029
+Americas,El Salvador,1957,3421.523218
+Americas,El Salvador,1962,3776.803627
+Americas,El Salvador,1967,4358.595393
+Americas,El Salvador,1972,4520.246008
+Americas,El Salvador,1977,5138.922374
+Americas,El Salvador,1982,4098.344175
+Americas,El Salvador,1987,4140.442097
+Americas,El Salvador,1992,4444.2317
+Americas,El Salvador,1997,5154.825496
+Americas,El Salvador,2002,5351.568665999999
+Americas,El Salvador,2007,5728.353514
+Africa,Equatorial Guinea,1952,375.6431231
+Africa,Equatorial Guinea,1957,426.0964081
+Africa,Equatorial Guinea,1962,582.8419713999998
+Africa,Equatorial Guinea,1967,915.5960025
+Africa,Equatorial Guinea,1972,672.4122571
+Africa,Equatorial Guinea,1977,958.5668124
+Africa,Equatorial Guinea,1982,927.8253427
+Africa,Equatorial Guinea,1987,966.8968149
+Africa,Equatorial Guinea,1992,1132.055034
+Africa,Equatorial Guinea,1997,2814.480755
+Africa,Equatorial Guinea,2002,7703.4959
+Africa,Equatorial Guinea,2007,12154.08975
+Africa,Eritrea,1952,328.9405571000001
+Africa,Eritrea,1957,344.1618859
+Africa,Eritrea,1962,380.9958433000001
+Africa,Eritrea,1967,468.7949699
+Africa,Eritrea,1972,514.3242081999998
+Africa,Eritrea,1977,505.7538077
+Africa,Eritrea,1982,524.8758493
+Africa,Eritrea,1987,521.1341333
+Africa,Eritrea,1992,582.8585102000002
+Africa,Eritrea,1997,913.47079
+Africa,Eritrea,2002,765.3500015
+Africa,Eritrea,2007,641.3695236000002
+Africa,Ethiopia,1952,362.1462796
+Africa,Ethiopia,1957,378.9041632
+Africa,Ethiopia,1962,419.4564161
+Africa,Ethiopia,1967,516.1186438
+Africa,Ethiopia,1972,566.2439442000001
+Africa,Ethiopia,1977,556.8083834
+Africa,Ethiopia,1982,577.8607471
+Africa,Ethiopia,1987,573.7413142000001
+Africa,Ethiopia,1992,421.3534653
+Africa,Ethiopia,1997,515.8894013
+Africa,Ethiopia,2002,530.0535319
+Africa,Ethiopia,2007,690.8055759
+Europe,Finland,1952,6424.519071
+Europe,Finland,1957,7545.415386
+Europe,Finland,1962,9371.842561
+Europe,Finland,1967,10921.63626
+Europe,Finland,1972,14358.8759
+Europe,Finland,1977,15605.42283
+Europe,Finland,1982,18533.15761
+Europe,Finland,1987,21141.01223
+Europe,Finland,1992,20647.16499
+Europe,Finland,1997,23723.9502
+Europe,Finland,2002,28204.59057
+Europe,Finland,2007,33207.0844
+Europe,France,1952,7029.809327
+Europe,France,1957,8662.834898000001
+Europe,France,1962,10560.48553
+Europe,France,1967,12999.91766
+Europe,France,1972,16107.19171
+Europe,France,1977,18292.63514
+Europe,France,1982,20293.89746
+Europe,France,1987,22066.44214
+Europe,France,1992,24703.79615
+Europe,France,1997,25889.78487
+Europe,France,2002,28926.03234
+Europe,France,2007,30470.0167
+Africa,Gabon,1952,4293.476475
+Africa,Gabon,1957,4976.198099
+Africa,Gabon,1962,6631.459222
+Africa,Gabon,1967,8358.761987
+Africa,Gabon,1972,11401.94841
+Africa,Gabon,1977,21745.57328
+Africa,Gabon,1982,15113.36194
+Africa,Gabon,1987,11864.40844
+Africa,Gabon,1992,13522.15752
+Africa,Gabon,1997,14722.841880000002
+Africa,Gabon,2002,12521.71392
+Africa,Gabon,2007,13206.48452
+Africa,Gambia,1952,485.2306591
+Africa,Gambia,1957,520.9267111
+Africa,Gambia,1962,599.650276
+Africa,Gambia,1967,734.7829124
+Africa,Gambia,1972,756.0868363
+Africa,Gambia,1977,884.7552507000001
+Africa,Gambia,1982,835.8096107999999
+Africa,Gambia,1987,611.6588611000002
+Africa,Gambia,1992,665.6244126
+Africa,Gambia,1997,653.7301704
+Africa,Gambia,2002,660.5855997
+Africa,Gambia,2007,752.7497265
+Europe,Germany,1952,7144.114393000002
+Europe,Germany,1957,10187.82665
+Europe,Germany,1962,12902.46291
+Europe,Germany,1967,14745.62561
+Europe,Germany,1972,18016.18027
+Europe,Germany,1977,20512.92123
+Europe,Germany,1982,22031.53274
+Europe,Germany,1987,24639.18566
+Europe,Germany,1992,26505.30317
+Europe,Germany,1997,27788.88416
+Europe,Germany,2002,30035.80198
+Europe,Germany,2007,32170.37442
+Africa,Ghana,1952,911.2989371
+Africa,Ghana,1957,1043.5615369999996
+Africa,Ghana,1962,1190.041118
+Africa,Ghana,1967,1125.69716
+Africa,Ghana,1972,1178.223708
+Africa,Ghana,1977,993.2239571
+Africa,Ghana,1982,876.032569
+Africa,Ghana,1987,847.0061135
+Africa,Ghana,1992,925.060154
+Africa,Ghana,1997,1005.245812
+Africa,Ghana,2002,1111.9845779999996
+Africa,Ghana,2007,1327.60891
+Europe,Greece,1952,3530.690067
+Europe,Greece,1957,4916.299889
+Europe,Greece,1962,6017.190732999999
+Europe,Greece,1967,8513.097016
+Europe,Greece,1972,12724.82957
+Europe,Greece,1977,14195.52428
+Europe,Greece,1982,15268.42089
+Europe,Greece,1987,16120.52839
+Europe,Greece,1992,17541.49634
+Europe,Greece,1997,18747.69814
+Europe,Greece,2002,22514.2548
+Europe,Greece,2007,27538.41188
+Americas,Guatemala,1952,2428.2377690000008
+Americas,Guatemala,1957,2617.155967
+Americas,Guatemala,1962,2750.364446
+Americas,Guatemala,1967,3242.531147
+Americas,Guatemala,1972,4031.408271
+Americas,Guatemala,1977,4879.992748
+Americas,Guatemala,1982,4820.49479
+Americas,Guatemala,1987,4246.485974
+Americas,Guatemala,1992,4439.45084
+Americas,Guatemala,1997,4684.313807
+Americas,Guatemala,2002,4858.347495
+Americas,Guatemala,2007,5186.050003
+Africa,Guinea,1952,510.1964923000001
+Africa,Guinea,1957,576.2670245
+Africa,Guinea,1962,686.3736739
+Africa,Guinea,1967,708.7595409
+Africa,Guinea,1972,741.6662307
+Africa,Guinea,1977,874.6858642999998
+Africa,Guinea,1982,857.2503577
+Africa,Guinea,1987,805.5724717999999
+Africa,Guinea,1992,794.3484384
+Africa,Guinea,1997,869.4497667999998
+Africa,Guinea,2002,945.5835837
+Africa,Guinea,2007,942.6542111
+Africa,Guinea-Bissau,1952,299.850319
+Africa,Guinea-Bissau,1957,431.79045660000014
+Africa,Guinea-Bissau,1962,522.0343725
+Africa,Guinea-Bissau,1967,715.5806402000002
+Africa,Guinea-Bissau,1972,820.2245876000002
+Africa,Guinea-Bissau,1977,764.7259627999998
+Africa,Guinea-Bissau,1982,838.1239671
+Africa,Guinea-Bissau,1987,736.4153921
+Africa,Guinea-Bissau,1992,745.5398706
+Africa,Guinea-Bissau,1997,796.6644681
+Africa,Guinea-Bissau,2002,575.7047176
+Africa,Guinea-Bissau,2007,579.2317429999998
+Americas,Haiti,1952,1840.366939
+Americas,Haiti,1957,1726.887882
+Americas,Haiti,1962,1796.589032
+Americas,Haiti,1967,1452.057666
+Americas,Haiti,1972,1654.456946
+Americas,Haiti,1977,1874.298931
+Americas,Haiti,1982,2011.159549
+Americas,Haiti,1987,1823.015995
+Americas,Haiti,1992,1456.309517
+Americas,Haiti,1997,1341.726931
+Americas,Haiti,2002,1270.364932
+Americas,Haiti,2007,1201.637154
+Americas,Honduras,1952,2194.926204
+Americas,Honduras,1957,2220.487682
+Americas,Honduras,1962,2291.156835
+Americas,Honduras,1967,2538.269358
+Americas,Honduras,1972,2529.842345
+Americas,Honduras,1977,3203.208066
+Americas,Honduras,1982,3121.7607940000007
+Americas,Honduras,1987,3023.096699
+Americas,Honduras,1992,3081.694603
+Americas,Honduras,1997,3160.454906
+Americas,Honduras,2002,3099.72866
+Americas,Honduras,2007,3548.3308460000007
+Asia,"Hong Kong, China",1952,3054.421209
+Asia,"Hong Kong, China",1957,3629.076457
+Asia,"Hong Kong, China",1962,4692.648271999999
+Asia,"Hong Kong, China",1967,6197.962814
+Asia,"Hong Kong, China",1972,8315.928145
+Asia,"Hong Kong, China",1977,11186.14125
+Asia,"Hong Kong, China",1982,14560.53051
+Asia,"Hong Kong, China",1987,20038.47269
+Asia,"Hong Kong, China",1992,24757.60301
+Asia,"Hong Kong, China",1997,28377.63219
+Asia,"Hong Kong, China",2002,30209.015160000006
+Asia,"Hong Kong, China",2007,39724.97867
+Europe,Hungary,1952,5263.673816
+Europe,Hungary,1957,6040.180011
+Europe,Hungary,1962,7550.359877
+Europe,Hungary,1967,9326.64467
+Europe,Hungary,1972,10168.65611
+Europe,Hungary,1977,11674.83737
+Europe,Hungary,1982,12545.99066
+Europe,Hungary,1987,12986.47998
+Europe,Hungary,1992,10535.62855
+Europe,Hungary,1997,11712.7768
+Europe,Hungary,2002,14843.93556
+Europe,Hungary,2007,18008.94444
+Europe,Iceland,1952,7267.688428
+Europe,Iceland,1957,9244.001412
+Europe,Iceland,1962,10350.15906
+Europe,Iceland,1967,13319.89568
+Europe,Iceland,1972,15798.06362
+Europe,Iceland,1977,19654.96247
+Europe,Iceland,1982,23269.6075
+Europe,Iceland,1987,26923.20628
+Europe,Iceland,1992,25144.39201
+Europe,Iceland,1997,28061.099660000003
+Europe,Iceland,2002,31163.20196
+Europe,Iceland,2007,36180.78919
+Asia,India,1952,546.5657493
+Asia,India,1957,590.061996
+Asia,India,1962,658.3471509
+Asia,India,1967,700.7706107000001
+Asia,India,1972,724.032527
+Asia,India,1977,813.3373230000002
+Asia,India,1982,855.7235377000002
+Asia,India,1987,976.5126756
+Asia,India,1992,1164.406809
+Asia,India,1997,1458.817442
+Asia,India,2002,1746.769454
+Asia,India,2007,2452.210407
+Asia,Indonesia,1952,749.6816546
+Asia,Indonesia,1957,858.9002707000002
+Asia,Indonesia,1962,849.2897700999998
+Asia,Indonesia,1967,762.4317721
+Asia,Indonesia,1972,1111.107907
+Asia,Indonesia,1977,1382.702056
+Asia,Indonesia,1982,1516.872988
+Asia,Indonesia,1987,1748.356961
+Asia,Indonesia,1992,2383.140898
+Asia,Indonesia,1997,3119.335603
+Asia,Indonesia,2002,2873.91287
+Asia,Indonesia,2007,3540.651564
+Asia,Iran,1952,3035.326002
+Asia,Iran,1957,3290.257643
+Asia,Iran,1962,4187.329802
+Asia,Iran,1967,5906.731804999999
+Asia,Iran,1972,9613.818607
+Asia,Iran,1977,11888.59508
+Asia,Iran,1982,7608.334602
+Asia,Iran,1987,6642.881371
+Asia,Iran,1992,7235.653187999998
+Asia,Iran,1997,8263.590301
+Asia,Iran,2002,9240.761975
+Asia,Iran,2007,11605.71449
+Asia,Iraq,1952,4129.766056
+Asia,Iraq,1957,6229.333562
+Asia,Iraq,1962,8341.737815
+Asia,Iraq,1967,8931.459811
+Asia,Iraq,1972,9576.037596
+Asia,Iraq,1977,14688.23507
+Asia,Iraq,1982,14517.90711
+Asia,Iraq,1987,11643.57268
+Asia,Iraq,1992,3745.640687
+Asia,Iraq,1997,3076.239795
+Asia,Iraq,2002,4390.717312
+Asia,Iraq,2007,4471.061906
+Europe,Ireland,1952,5210.280328
+Europe,Ireland,1957,5599.077872
+Europe,Ireland,1962,6631.597314
+Europe,Ireland,1967,7655.568963
+Europe,Ireland,1972,9530.772896
+Europe,Ireland,1977,11150.98113
+Europe,Ireland,1982,12618.32141
+Europe,Ireland,1987,13872.86652
+Europe,Ireland,1992,17558.81555
+Europe,Ireland,1997,24521.94713
+Europe,Ireland,2002,34077.04939
+Europe,Ireland,2007,40675.99635
+Asia,Israel,1952,4086.522128
+Asia,Israel,1957,5385.278451
+Asia,Israel,1962,7105.630706
+Asia,Israel,1967,8393.741404
+Asia,Israel,1972,12786.93223
+Asia,Israel,1977,13306.61921
+Asia,Israel,1982,15367.0292
+Asia,Israel,1987,17122.47986
+Asia,Israel,1992,18051.52254
+Asia,Israel,1997,20896.60924
+Asia,Israel,2002,21905.59514
+Asia,Israel,2007,25523.2771
+Europe,Italy,1952,4931.404154999998
+Europe,Italy,1957,6248.656232
+Europe,Italy,1962,8243.58234
+Europe,Italy,1967,10022.40131
+Europe,Italy,1972,12269.27378
+Europe,Italy,1977,14255.98475
+Europe,Italy,1982,16537.4835
+Europe,Italy,1987,19207.23482
+Europe,Italy,1992,22013.64486
+Europe,Italy,1997,24675.02446
+Europe,Italy,2002,27968.09817
+Europe,Italy,2007,28569.7197
+Americas,Jamaica,1952,2898.530881
+Americas,Jamaica,1957,4756.525781
+Americas,Jamaica,1962,5246.107524
+Americas,Jamaica,1967,6124.703450999999
+Americas,Jamaica,1972,7433.889293000001
+Americas,Jamaica,1977,6650.195573
+Americas,Jamaica,1982,6068.05135
+Americas,Jamaica,1987,6351.237495
+Americas,Jamaica,1992,7404.923685
+Americas,Jamaica,1997,7121.924704000001
+Americas,Jamaica,2002,6994.774861
+Americas,Jamaica,2007,7320.8802620000015
+Asia,Japan,1952,3216.956347
+Asia,Japan,1957,4317.694365
+Asia,Japan,1962,6576.649461
+Asia,Japan,1967,9847.788607
+Asia,Japan,1972,14778.78636
+Asia,Japan,1977,16610.37701
+Asia,Japan,1982,19384.10571
+Asia,Japan,1987,22375.94189
+Asia,Japan,1992,26824.89511
+Asia,Japan,1997,28816.58499
+Asia,Japan,2002,28604.5919
+Asia,Japan,2007,31656.06806
+Asia,Jordan,1952,1546.907807
+Asia,Jordan,1957,1886.080591
+Asia,Jordan,1962,2348.009158
+Asia,Jordan,1967,2741.796252
+Asia,Jordan,1972,2110.856309
+Asia,Jordan,1977,2852.351568
+Asia,Jordan,1982,4161.415959
+Asia,Jordan,1987,4448.679912
+Asia,Jordan,1992,3431.593647
+Asia,Jordan,1997,3645.379572
+Asia,Jordan,2002,3844.917194
+Asia,Jordan,2007,4519.461171
+Africa,Kenya,1952,853.5409189999998
+Africa,Kenya,1957,944.4383152
+Africa,Kenya,1962,896.9663732
+Africa,Kenya,1967,1056.736457
+Africa,Kenya,1972,1222.359968
+Africa,Kenya,1977,1267.613204
+Africa,Kenya,1982,1348.225791
+Africa,Kenya,1987,1361.936856
+Africa,Kenya,1992,1341.9217210000004
+Africa,Kenya,1997,1360.4850210000004
+Africa,Kenya,2002,1287.514732
+Africa,Kenya,2007,1463.249282
+Asia,"Korea, Dem. Rep.",1952,1088.277758
+Asia,"Korea, Dem. Rep.",1957,1571.134655
+Asia,"Korea, Dem. Rep.",1962,1621.693598
+Asia,"Korea, Dem. Rep.",1967,2143.540609
+Asia,"Korea, Dem. Rep.",1972,3701.621503
+Asia,"Korea, Dem. Rep.",1977,4106.301249
+Asia,"Korea, Dem. Rep.",1982,4106.525293
+Asia,"Korea, Dem. Rep.",1987,4106.492315
+Asia,"Korea, Dem. Rep.",1992,3726.063507
+Asia,"Korea, Dem. Rep.",1997,1690.756814
+Asia,"Korea, Dem. Rep.",2002,1646.758151
+Asia,"Korea, Dem. Rep.",2007,1593.06548
+Asia,"Korea, Rep.",1952,1030.592226
+Asia,"Korea, Rep.",1957,1487.593537
+Asia,"Korea, Rep.",1962,1536.344387
+Asia,"Korea, Rep.",1967,2029.228142
+Asia,"Korea, Rep.",1972,3030.87665
+Asia,"Korea, Rep.",1977,4657.22102
+Asia,"Korea, Rep.",1982,5622.942464
+Asia,"Korea, Rep.",1987,8533.088805
+Asia,"Korea, Rep.",1992,12104.27872
+Asia,"Korea, Rep.",1997,15993.52796
+Asia,"Korea, Rep.",2002,19233.98818
+Asia,"Korea, Rep.",2007,23348.139730000006
+Asia,Kuwait,1952,108382.3529
+Asia,Kuwait,1957,113523.1329
+Asia,Kuwait,1962,95458.11176
+Asia,Kuwait,1967,80894.88326
+Asia,Kuwait,1972,109347.867
+Asia,Kuwait,1977,59265.47714
+Asia,Kuwait,1982,31354.03573
+Asia,Kuwait,1987,28118.42998
+Asia,Kuwait,1992,34932.91959
+Asia,Kuwait,1997,40300.61996
+Asia,Kuwait,2002,35110.10566
+Asia,Kuwait,2007,47306.98978
+Asia,Lebanon,1952,4834.804067
+Asia,Lebanon,1957,6089.786934000002
+Asia,Lebanon,1962,5714.560611
+Asia,Lebanon,1967,6006.983042
+Asia,Lebanon,1972,7486.384341
+Asia,Lebanon,1977,8659.696836
+Asia,Lebanon,1982,7640.519520999998
+Asia,Lebanon,1987,5377.091329
+Asia,Lebanon,1992,6890.806854
+Asia,Lebanon,1997,8754.96385
+Asia,Lebanon,2002,9313.93883
+Asia,Lebanon,2007,10461.05868
+Africa,Lesotho,1952,298.8462121
+Africa,Lesotho,1957,335.9971151000001
+Africa,Lesotho,1962,411.8006266
+Africa,Lesotho,1967,498.6390265
+Africa,Lesotho,1972,496.5815922000001
+Africa,Lesotho,1977,745.3695408
+Africa,Lesotho,1982,797.2631074
+Africa,Lesotho,1987,773.9932140999998
+Africa,Lesotho,1992,977.4862725
+Africa,Lesotho,1997,1186.147994
+Africa,Lesotho,2002,1275.184575
+Africa,Lesotho,2007,1569.331442
+Africa,Liberia,1952,575.5729961000002
+Africa,Liberia,1957,620.9699901
+Africa,Liberia,1962,634.1951625
+Africa,Liberia,1967,713.6036482999998
+Africa,Liberia,1972,803.0054535
+Africa,Liberia,1977,640.3224382999998
+Africa,Liberia,1982,572.1995694
+Africa,Liberia,1987,506.1138573
+Africa,Liberia,1992,636.6229191000001
+Africa,Liberia,1997,609.1739508
+Africa,Liberia,2002,531.4823679
+Africa,Liberia,2007,414.5073415
+Africa,Libya,1952,2387.54806
+Africa,Libya,1957,3448.284395
+Africa,Libya,1962,6757.030816
+Africa,Libya,1967,18772.75169
+Africa,Libya,1972,21011.49721
+Africa,Libya,1977,21951.21176
+Africa,Libya,1982,17364.275380000006
+Africa,Libya,1987,11770.5898
+Africa,Libya,1992,9640.138501
+Africa,Libya,1997,9467.446056
+Africa,Libya,2002,9534.677467
+Africa,Libya,2007,12057.49928
+Africa,Madagascar,1952,1443.011715
+Africa,Madagascar,1957,1589.20275
+Africa,Madagascar,1962,1643.38711
+Africa,Madagascar,1967,1634.047282
+Africa,Madagascar,1972,1748.562982
+Africa,Madagascar,1977,1544.228586
+Africa,Madagascar,1982,1302.878658
+Africa,Madagascar,1987,1155.441948
+Africa,Madagascar,1992,1040.67619
+Africa,Madagascar,1997,986.2958956
+Africa,Madagascar,2002,894.6370822
+Africa,Madagascar,2007,1044.770126
+Africa,Malawi,1952,369.1650802
+Africa,Malawi,1957,416.3698064
+Africa,Malawi,1962,427.9010856
+Africa,Malawi,1967,495.5147806
+Africa,Malawi,1972,584.6219709
+Africa,Malawi,1977,663.2236766
+Africa,Malawi,1982,632.8039209
+Africa,Malawi,1987,635.5173633999998
+Africa,Malawi,1992,563.2000145
+Africa,Malawi,1997,692.2758102999999
+Africa,Malawi,2002,665.4231186000002
+Africa,Malawi,2007,759.3499101
+Asia,Malaysia,1952,1831.132894
+Asia,Malaysia,1957,1810.0669920000007
+Asia,Malaysia,1962,2036.884944
+Asia,Malaysia,1967,2277.742396
+Asia,Malaysia,1972,2849.09478
+Asia,Malaysia,1977,3827.921571
+Asia,Malaysia,1982,4920.355951
+Asia,Malaysia,1987,5249.802653
+Asia,Malaysia,1992,7277.912802
+Asia,Malaysia,1997,10132.90964
+Asia,Malaysia,2002,10206.97794
+Asia,Malaysia,2007,12451.6558
+Africa,Mali,1952,452.3369807
+Africa,Mali,1957,490.3821867
+Africa,Mali,1962,496.1743428
+Africa,Mali,1967,545.0098873
+Africa,Mali,1972,581.3688761
+Africa,Mali,1977,686.3952693
+Africa,Mali,1982,618.0140640999998
+Africa,Mali,1987,684.1715576
+Africa,Mali,1992,739.014375
+Africa,Mali,1997,790.2579846
+Africa,Mali,2002,951.4097518
+Africa,Mali,2007,1042.581557
+Africa,Mauritania,1952,743.1159097
+Africa,Mauritania,1957,846.1202613
+Africa,Mauritania,1962,1055.896036
+Africa,Mauritania,1967,1421.145193
+Africa,Mauritania,1972,1586.851781
+Africa,Mauritania,1977,1497.492223
+Africa,Mauritania,1982,1481.150189
+Africa,Mauritania,1987,1421.603576
+Africa,Mauritania,1992,1361.369784
+Africa,Mauritania,1997,1483.136136
+Africa,Mauritania,2002,1579.019543
+Africa,Mauritania,2007,1803.151496
+Africa,Mauritius,1952,1967.955707
+Africa,Mauritius,1957,2034.037981
+Africa,Mauritius,1962,2529.0674870000007
+Africa,Mauritius,1967,2475.387562
+Africa,Mauritius,1972,2575.484158
+Africa,Mauritius,1977,3710.982963
+Africa,Mauritius,1982,3688.037739
+Africa,Mauritius,1987,4783.586903
+Africa,Mauritius,1992,6058.253846000001
+Africa,Mauritius,1997,7425.705295000002
+Africa,Mauritius,2002,9021.815894
+Africa,Mauritius,2007,10956.99112
+Americas,Mexico,1952,3478.125529
+Americas,Mexico,1957,4131.546641
+Americas,Mexico,1962,4581.609385
+Americas,Mexico,1967,5754.733883
+Americas,Mexico,1972,6809.406690000002
+Americas,Mexico,1977,7674.929108
+Americas,Mexico,1982,9611.147541
+Americas,Mexico,1987,8688.156003
+Americas,Mexico,1992,9472.384295
+Americas,Mexico,1997,9767.29753
+Americas,Mexico,2002,10742.44053
+Americas,Mexico,2007,11977.57496
+Asia,Mongolia,1952,786.5668575
+Asia,Mongolia,1957,912.6626085
+Asia,Mongolia,1962,1056.353958
+Asia,Mongolia,1967,1226.04113
+Asia,Mongolia,1972,1421.741975
+Asia,Mongolia,1977,1647.511665
+Asia,Mongolia,1982,2000.603139
+Asia,Mongolia,1987,2338.008304
+Asia,Mongolia,1992,1785.402016
+Asia,Mongolia,1997,1902.2521
+Asia,Mongolia,2002,2140.739323
+Asia,Mongolia,2007,3095.7722710000007
+Europe,Montenegro,1952,2647.585601
+Europe,Montenegro,1957,3682.259903
+Europe,Montenegro,1962,4649.593785
+Europe,Montenegro,1967,5907.850937
+Europe,Montenegro,1972,7778.414017
+Europe,Montenegro,1977,9595.929905
+Europe,Montenegro,1982,11222.58762
+Europe,Montenegro,1987,11732.51017
+Europe,Montenegro,1992,7003.339037000002
+Europe,Montenegro,1997,6465.613349
+Europe,Montenegro,2002,6557.194282
+Europe,Montenegro,2007,9253.896111
+Africa,Morocco,1952,1688.20357
+Africa,Morocco,1957,1642.002314
+Africa,Morocco,1962,1566.353493
+Africa,Morocco,1967,1711.04477
+Africa,Morocco,1972,1930.194975
+Africa,Morocco,1977,2370.619976
+Africa,Morocco,1982,2702.620356
+Africa,Morocco,1987,2755.046991
+Africa,Morocco,1992,2948.047252
+Africa,Morocco,1997,2982.101858
+Africa,Morocco,2002,3258.495584
+Africa,Morocco,2007,3820.17523
+Africa,Mozambique,1952,468.5260381
+Africa,Mozambique,1957,495.58683330000014
+Africa,Mozambique,1962,556.6863539
+Africa,Mozambique,1967,566.6691539
+Africa,Mozambique,1972,724.9178037
+Africa,Mozambique,1977,502.3197334
+Africa,Mozambique,1982,462.2114149
+Africa,Mozambique,1987,389.8761846
+Africa,Mozambique,1992,410.8968239
+Africa,Mozambique,1997,472.34607710000006
+Africa,Mozambique,2002,633.6179466
+Africa,Mozambique,2007,823.6856205
+Asia,Myanmar,1952,331.0
+Asia,Myanmar,1957,350.0
+Asia,Myanmar,1962,388.0
+Asia,Myanmar,1967,349.0
+Asia,Myanmar,1972,357.0
+Asia,Myanmar,1977,371.0
+Asia,Myanmar,1982,424.0
+Asia,Myanmar,1987,385.0
+Asia,Myanmar,1992,347.0
+Asia,Myanmar,1997,415.0
+Asia,Myanmar,2002,611.0
+Asia,Myanmar,2007,944.0
+Africa,Namibia,1952,2423.780443
+Africa,Namibia,1957,2621.448058
+Africa,Namibia,1962,3173.215595
+Africa,Namibia,1967,3793.694753
+Africa,Namibia,1972,3746.080948
+Africa,Namibia,1977,3876.485958
+Africa,Namibia,1982,4191.100511
+Africa,Namibia,1987,3693.731337
+Africa,Namibia,1992,3804.537999
+Africa,Namibia,1997,3899.52426
+Africa,Namibia,2002,4072.324751
+Africa,Namibia,2007,4811.060429
+Asia,Nepal,1952,545.8657228999998
+Asia,Nepal,1957,597.9363557999999
+Asia,Nepal,1962,652.3968593
+Asia,Nepal,1967,676.4422254
+Asia,Nepal,1972,674.7881296
+Asia,Nepal,1977,694.1124398
+Asia,Nepal,1982,718.3730947
+Asia,Nepal,1987,775.6324501
+Asia,Nepal,1992,897.7403604
+Asia,Nepal,1997,1010.892138
+Asia,Nepal,2002,1057.206311
+Asia,Nepal,2007,1091.359778
+Europe,Netherlands,1952,8941.571858
+Europe,Netherlands,1957,11276.19344
+Europe,Netherlands,1962,12790.84956
+Europe,Netherlands,1967,15363.25136
+Europe,Netherlands,1972,18794.74567
+Europe,Netherlands,1977,21209.0592
+Europe,Netherlands,1982,21399.46046
+Europe,Netherlands,1987,23651.32361
+Europe,Netherlands,1992,26790.94961
+Europe,Netherlands,1997,30246.13063
+Europe,Netherlands,2002,33724.75778
+Europe,Netherlands,2007,36797.93332
+Oceania,New Zealand,1952,10556.57566
+Oceania,New Zealand,1957,12247.39532
+Oceania,New Zealand,1962,13175.678
+Oceania,New Zealand,1967,14463.918930000002
+Oceania,New Zealand,1972,16046.03728
+Oceania,New Zealand,1977,16233.7177
+Oceania,New Zealand,1982,17632.4104
+Oceania,New Zealand,1987,19007.19129
+Oceania,New Zealand,1992,18363.32494
+Oceania,New Zealand,1997,21050.41377
+Oceania,New Zealand,2002,23189.80135
+Oceania,New Zealand,2007,25185.00911
+Americas,Nicaragua,1952,3112.363948
+Americas,Nicaragua,1957,3457.415947
+Americas,Nicaragua,1962,3634.364406
+Americas,Nicaragua,1967,4643.393534000002
+Americas,Nicaragua,1972,4688.593267
+Americas,Nicaragua,1977,5486.371089
+Americas,Nicaragua,1982,3470.3381560000007
+Americas,Nicaragua,1987,2955.984375
+Americas,Nicaragua,1992,2170.151724
+Americas,Nicaragua,1997,2253.023004
+Americas,Nicaragua,2002,2474.548819
+Americas,Nicaragua,2007,2749.320965
+Africa,Niger,1952,761.879376
+Africa,Niger,1957,835.5234025000002
+Africa,Niger,1962,997.7661127
+Africa,Niger,1967,1054.384891
+Africa,Niger,1972,954.2092363
+Africa,Niger,1977,808.8970727999998
+Africa,Niger,1982,909.7221354
+Africa,Niger,1987,668.3000228
+Africa,Niger,1992,581.182725
+Africa,Niger,1997,580.3052092
+Africa,Niger,2002,601.0745012
+Africa,Niger,2007,619.6768923999998
+Africa,Nigeria,1952,1077.281856
+Africa,Nigeria,1957,1100.5925630000004
+Africa,Nigeria,1962,1150.9274779999996
+Africa,Nigeria,1967,1014.514104
+Africa,Nigeria,1972,1698.388838
+Africa,Nigeria,1977,1981.951806
+Africa,Nigeria,1982,1576.97375
+Africa,Nigeria,1987,1385.029563
+Africa,Nigeria,1992,1619.848217
+Africa,Nigeria,1997,1624.941275
+Africa,Nigeria,2002,1615.286395
+Africa,Nigeria,2007,2013.977305
+Europe,Norway,1952,10095.42172
+Europe,Norway,1957,11653.97304
+Europe,Norway,1962,13450.40151
+Europe,Norway,1967,16361.87647
+Europe,Norway,1972,18965.05551
+Europe,Norway,1977,23311.34939
+Europe,Norway,1982,26298.63531
+Europe,Norway,1987,31540.9748
+Europe,Norway,1992,33965.66115
+Europe,Norway,1997,41283.16433
+Europe,Norway,2002,44683.97525
+Europe,Norway,2007,49357.19017
+Asia,Oman,1952,1828.230307
+Asia,Oman,1957,2242.746551
+Asia,Oman,1962,2924.638113
+Asia,Oman,1967,4720.942687
+Asia,Oman,1972,10618.03855
+Asia,Oman,1977,11848.34392
+Asia,Oman,1982,12954.79101
+Asia,Oman,1987,18115.22313
+Asia,Oman,1992,18616.70691
+Asia,Oman,1997,19702.05581
+Asia,Oman,2002,19774.83687
+Asia,Oman,2007,22316.19287
+Asia,Pakistan,1952,684.5971437999998
+Asia,Pakistan,1957,747.0835292
+Asia,Pakistan,1962,803.3427418
+Asia,Pakistan,1967,942.4082588
+Asia,Pakistan,1972,1049.938981
+Asia,Pakistan,1977,1175.921193
+Asia,Pakistan,1982,1443.429832
+Asia,Pakistan,1987,1704.686583
+Asia,Pakistan,1992,1971.829464
+Asia,Pakistan,1997,2049.3505210000008
+Asia,Pakistan,2002,2092.712441
+Asia,Pakistan,2007,2605.94758
+Americas,Panama,1952,2480.380334
+Americas,Panama,1957,2961.800905
+Americas,Panama,1962,3536.540301
+Americas,Panama,1967,4421.009084
+Americas,Panama,1972,5364.249663000001
+Americas,Panama,1977,5351.912144
+Americas,Panama,1982,7009.601598
+Americas,Panama,1987,7034.779161
+Americas,Panama,1992,6618.74305
+Americas,Panama,1997,7113.692252
+Americas,Panama,2002,7356.0319340000015
+Americas,Panama,2007,9809.185636
+Americas,Paraguay,1952,1952.308701
+Americas,Paraguay,1957,2046.154706
+Americas,Paraguay,1962,2148.027146
+Americas,Paraguay,1967,2299.376311
+Americas,Paraguay,1972,2523.337977
+Americas,Paraguay,1977,3248.373311
+Americas,Paraguay,1982,4258.503604
+Americas,Paraguay,1987,3998.875695
+Americas,Paraguay,1992,4196.411078
+Americas,Paraguay,1997,4247.400261
+Americas,Paraguay,2002,3783.674243
+Americas,Paraguay,2007,4172.838464
+Americas,Peru,1952,3758.523437
+Americas,Peru,1957,4245.256697999999
+Americas,Peru,1962,4957.037982
+Americas,Peru,1967,5788.09333
+Americas,Peru,1972,5937.827283
+Americas,Peru,1977,6281.290854999998
+Americas,Peru,1982,6434.501797
+Americas,Peru,1987,6360.943444
+Americas,Peru,1992,4446.380924
+Americas,Peru,1997,5838.347657
+Americas,Peru,2002,5909.020073
+Americas,Peru,2007,7408.905561
+Asia,Philippines,1952,1272.880995
+Asia,Philippines,1957,1547.944844
+Asia,Philippines,1962,1649.552153
+Asia,Philippines,1967,1814.12743
+Asia,Philippines,1972,1989.37407
+Asia,Philippines,1977,2373.204287
+Asia,Philippines,1982,2603.273765
+Asia,Philippines,1987,2189.634995
+Asia,Philippines,1992,2279.324017000001
+Asia,Philippines,1997,2536.534925
+Asia,Philippines,2002,2650.921068
+Asia,Philippines,2007,3190.481016
+Europe,Poland,1952,4029.329699
+Europe,Poland,1957,4734.253019
+Europe,Poland,1962,5338.752143
+Europe,Poland,1967,6557.152776
+Europe,Poland,1972,8006.506993000001
+Europe,Poland,1977,9508.141454
+Europe,Poland,1982,8451.531004
+Europe,Poland,1987,9082.351172
+Europe,Poland,1992,7738.881247
+Europe,Poland,1997,10159.58368
+Europe,Poland,2002,12002.23908
+Europe,Poland,2007,15389.924680000002
+Europe,Portugal,1952,3068.319867
+Europe,Portugal,1957,3774.571743
+Europe,Portugal,1962,4727.954889
+Europe,Portugal,1967,6361.517993
+Europe,Portugal,1972,9022.247417
+Europe,Portugal,1977,10172.48572
+Europe,Portugal,1982,11753.84291
+Europe,Portugal,1987,13039.30876
+Europe,Portugal,1992,16207.266630000002
+Europe,Portugal,1997,17641.03156
+Europe,Portugal,2002,19970.90787
+Europe,Portugal,2007,20509.64777
+Americas,Puerto Rico,1952,3081.959785
+Americas,Puerto Rico,1957,3907.156189
+Americas,Puerto Rico,1962,5108.34463
+Americas,Puerto Rico,1967,6929.277714
+Americas,Puerto Rico,1972,9123.041742
+Americas,Puerto Rico,1977,9770.524921
+Americas,Puerto Rico,1982,10330.98915
+Americas,Puerto Rico,1987,12281.34191
+Americas,Puerto Rico,1992,14641.58711
+Americas,Puerto Rico,1997,16999.4333
+Americas,Puerto Rico,2002,18855.60618
+Americas,Puerto Rico,2007,19328.70901
+Africa,Reunion,1952,2718.885295
+Africa,Reunion,1957,2769.451844
+Africa,Reunion,1962,3173.72334
+Africa,Reunion,1967,4021.175739
+Africa,Reunion,1972,5047.658563
+Africa,Reunion,1977,4319.804067
+Africa,Reunion,1982,5267.219353
+Africa,Reunion,1987,5303.377488
+Africa,Reunion,1992,6101.255823
+Africa,Reunion,1997,6071.941411
+Africa,Reunion,2002,6316.1652
+Africa,Reunion,2007,7670.122558
+Europe,Romania,1952,3144.613186
+Europe,Romania,1957,3943.370225
+Europe,Romania,1962,4734.997586
+Europe,Romania,1967,6470.866545
+Europe,Romania,1972,8011.4144019999985
+Europe,Romania,1977,9356.39724
+Europe,Romania,1982,9605.314053
+Europe,Romania,1987,9696.273295
+Europe,Romania,1992,6598.409903
+Europe,Romania,1997,7346.547556999999
+Europe,Romania,2002,7885.360081
+Europe,Romania,2007,10808.47561
+Africa,Rwanda,1952,493.3238752
+Africa,Rwanda,1957,540.2893982999999
+Africa,Rwanda,1962,597.4730727000001
+Africa,Rwanda,1967,510.9637142
+Africa,Rwanda,1972,590.5806637999998
+Africa,Rwanda,1977,670.0806011
+Africa,Rwanda,1982,881.5706467
+Africa,Rwanda,1987,847.991217
+Africa,Rwanda,1992,737.0685949
+Africa,Rwanda,1997,589.9445051
+Africa,Rwanda,2002,785.6537647999999
+Africa,Rwanda,2007,863.0884639000002
+Africa,Sao Tome and Principe,1952,879.5835855
+Africa,Sao Tome and Principe,1957,860.7369026
+Africa,Sao Tome and Principe,1962,1071.551119
+Africa,Sao Tome and Principe,1967,1384.840593
+Africa,Sao Tome and Principe,1972,1532.985254
+Africa,Sao Tome and Principe,1977,1737.561657
+Africa,Sao Tome and Principe,1982,1890.218117
+Africa,Sao Tome and Principe,1987,1516.525457
+Africa,Sao Tome and Principe,1992,1428.777814
+Africa,Sao Tome and Principe,1997,1339.076036
+Africa,Sao Tome and Principe,2002,1353.09239
+Africa,Sao Tome and Principe,2007,1598.435089
+Asia,Saudi Arabia,1952,6459.554823
+Asia,Saudi Arabia,1957,8157.5912480000015
+Asia,Saudi Arabia,1962,11626.41975
+Asia,Saudi Arabia,1967,16903.04886
+Asia,Saudi Arabia,1972,24837.42865
+Asia,Saudi Arabia,1977,34167.7626
+Asia,Saudi Arabia,1982,33693.17525
+Asia,Saudi Arabia,1987,21198.26136
+Asia,Saudi Arabia,1992,24841.61777
+Asia,Saudi Arabia,1997,20586.69019
+Asia,Saudi Arabia,2002,19014.54118
+Asia,Saudi Arabia,2007,21654.83194
+Africa,Senegal,1952,1450.356983
+Africa,Senegal,1957,1567.653006
+Africa,Senegal,1962,1654.988723
+Africa,Senegal,1967,1612.404632
+Africa,Senegal,1972,1597.712056
+Africa,Senegal,1977,1561.769116
+Africa,Senegal,1982,1518.479984
+Africa,Senegal,1987,1441.72072
+Africa,Senegal,1992,1367.899369
+Africa,Senegal,1997,1392.368347
+Africa,Senegal,2002,1519.635262
+Africa,Senegal,2007,1712.472136
+Europe,Serbia,1952,3581.459448
+Europe,Serbia,1957,4981.090891
+Europe,Serbia,1962,6289.629157
+Europe,Serbia,1967,7991.707066
+Europe,Serbia,1972,10522.06749
+Europe,Serbia,1977,12980.66956
+Europe,Serbia,1982,15181.0927
+Europe,Serbia,1987,15870.87851
+Europe,Serbia,1992,9325.068238
+Europe,Serbia,1997,7914.320304000002
+Europe,Serbia,2002,7236.075251
+Europe,Serbia,2007,9786.534714
+Africa,Sierra Leone,1952,879.7877358
+Africa,Sierra Leone,1957,1004.484437
+Africa,Sierra Leone,1962,1116.6398769999996
+Africa,Sierra Leone,1967,1206.043465
+Africa,Sierra Leone,1972,1353.759762
+Africa,Sierra Leone,1977,1348.285159
+Africa,Sierra Leone,1982,1465.010784
+Africa,Sierra Leone,1987,1294.4477880000004
+Africa,Sierra Leone,1992,1068.696278
+Africa,Sierra Leone,1997,574.6481576
+Africa,Sierra Leone,2002,699.4897129999998
+Africa,Sierra Leone,2007,862.5407561000002
+Asia,Singapore,1952,2315.138227
+Asia,Singapore,1957,2843.104409
+Asia,Singapore,1962,3674.735572
+Asia,Singapore,1967,4977.41854
+Asia,Singapore,1972,8597.756202
+Asia,Singapore,1977,11210.08948
+Asia,Singapore,1982,15169.16112
+Asia,Singapore,1987,18861.53081
+Asia,Singapore,1992,24769.8912
+Asia,Singapore,1997,33519.4766
+Asia,Singapore,2002,36023.1054
+Asia,Singapore,2007,47143.17964
+Europe,Slovak Republic,1952,5074.659104
+Europe,Slovak Republic,1957,6093.26298
+Europe,Slovak Republic,1962,7481.107598
+Europe,Slovak Republic,1967,8412.902397
+Europe,Slovak Republic,1972,9674.167626
+Europe,Slovak Republic,1977,10922.66404
+Europe,Slovak Republic,1982,11348.54585
+Europe,Slovak Republic,1987,12037.26758
+Europe,Slovak Republic,1992,9498.467723
+Europe,Slovak Republic,1997,12126.23065
+Europe,Slovak Republic,2002,13638.778369999998
+Europe,Slovak Republic,2007,18678.31435
+Europe,Slovenia,1952,4215.041741
+Europe,Slovenia,1957,5862.276629
+Europe,Slovenia,1962,7402.303395
+Europe,Slovenia,1967,9405.489397
+Europe,Slovenia,1972,12383.4862
+Europe,Slovenia,1977,15277.030169999998
+Europe,Slovenia,1982,17866.72175
+Europe,Slovenia,1987,18678.53492
+Europe,Slovenia,1992,14214.71681
+Europe,Slovenia,1997,17161.10735
+Europe,Slovenia,2002,20660.01936
+Europe,Slovenia,2007,25768.25759
+Africa,Somalia,1952,1135.749842
+Africa,Somalia,1957,1258.147413
+Africa,Somalia,1962,1369.488336
+Africa,Somalia,1967,1284.7331800000004
+Africa,Somalia,1972,1254.576127
+Africa,Somalia,1977,1450.992513
+Africa,Somalia,1982,1176.807031
+Africa,Somalia,1987,1093.244963
+Africa,Somalia,1992,926.9602964
+Africa,Somalia,1997,930.5964284
+Africa,Somalia,2002,882.0818218000002
+Africa,Somalia,2007,926.1410683
+Africa,South Africa,1952,4725.295531000002
+Africa,South Africa,1957,5487.104219
+Africa,South Africa,1962,5768.729717
+Africa,South Africa,1967,7114.477970999998
+Africa,South Africa,1972,7765.962636
+Africa,South Africa,1977,8028.651439
+Africa,South Africa,1982,8568.266228
+Africa,South Africa,1987,7825.823398
+Africa,South Africa,1992,7225.069257999998
+Africa,South Africa,1997,7479.188244
+Africa,South Africa,2002,7710.946444
+Africa,South Africa,2007,9269.657808
+Europe,Spain,1952,3834.034742
+Europe,Spain,1957,4564.80241
+Europe,Spain,1962,5693.843879
+Europe,Spain,1967,7993.512294
+Europe,Spain,1972,10638.75131
+Europe,Spain,1977,13236.92117
+Europe,Spain,1982,13926.16997
+Europe,Spain,1987,15764.98313
+Europe,Spain,1992,18603.06452
+Europe,Spain,1997,20445.29896
+Europe,Spain,2002,24835.47166
+Europe,Spain,2007,28821.0637
+Asia,Sri Lanka,1952,1083.53203
+Asia,Sri Lanka,1957,1072.546602
+Asia,Sri Lanka,1962,1074.47196
+Asia,Sri Lanka,1967,1135.514326
+Asia,Sri Lanka,1972,1213.39553
+Asia,Sri Lanka,1977,1348.775651
+Asia,Sri Lanka,1982,1648.079789
+Asia,Sri Lanka,1987,1876.766827
+Asia,Sri Lanka,1992,2153.739222
+Asia,Sri Lanka,1997,2664.477257
+Asia,Sri Lanka,2002,3015.378833
+Asia,Sri Lanka,2007,3970.095407
+Africa,Sudan,1952,1615.991129
+Africa,Sudan,1957,1770.3370739999998
+Africa,Sudan,1962,1959.593767
+Africa,Sudan,1967,1687.997641
+Africa,Sudan,1972,1659.652775
+Africa,Sudan,1977,2202.988423
+Africa,Sudan,1982,1895.544073
+Africa,Sudan,1987,1507.819159
+Africa,Sudan,1992,1492.197043
+Africa,Sudan,1997,1632.2107640000004
+Africa,Sudan,2002,1993.398314
+Africa,Sudan,2007,2602.394995
+Africa,Swaziland,1952,1148.376626
+Africa,Swaziland,1957,1244.708364
+Africa,Swaziland,1962,1856.182125
+Africa,Swaziland,1967,2613.101665
+Africa,Swaziland,1972,3364.836625
+Africa,Swaziland,1977,3781.410618
+Africa,Swaziland,1982,3895.384018
+Africa,Swaziland,1987,3984.839812
+Africa,Swaziland,1992,3553.0224
+Africa,Swaziland,1997,3876.76846
+Africa,Swaziland,2002,4128.116943
+Africa,Swaziland,2007,4513.480643
+Europe,Sweden,1952,8527.844662000001
+Europe,Sweden,1957,9911.878226
+Europe,Sweden,1962,12329.44192
+Europe,Sweden,1967,15258.29697
+Europe,Sweden,1972,17832.02464
+Europe,Sweden,1977,18855.72521
+Europe,Sweden,1982,20667.38125
+Europe,Sweden,1987,23586.92927
+Europe,Sweden,1992,23880.01683
+Europe,Sweden,1997,25266.59499
+Europe,Sweden,2002,29341.630930000007
+Europe,Sweden,2007,33859.74835
+Europe,Switzerland,1952,14734.23275
+Europe,Switzerland,1957,17909.48973
+Europe,Switzerland,1962,20431.0927
+Europe,Switzerland,1967,22966.14432
+Europe,Switzerland,1972,27195.11304
+Europe,Switzerland,1977,26982.29052
+Europe,Switzerland,1982,28397.71512
+Europe,Switzerland,1987,30281.70459
+Europe,Switzerland,1992,31871.5303
+Europe,Switzerland,1997,32135.323010000004
+Europe,Switzerland,2002,34480.95771
+Europe,Switzerland,2007,37506.41907
+Asia,Syria,1952,1643.485354
+Asia,Syria,1957,2117.234893
+Asia,Syria,1962,2193.037133
+Asia,Syria,1967,1881.923632
+Asia,Syria,1972,2571.423014
+Asia,Syria,1977,3195.484582
+Asia,Syria,1982,3761.837715
+Asia,Syria,1987,3116.774285
+Asia,Syria,1992,3340.542768
+Asia,Syria,1997,4014.238972
+Asia,Syria,2002,4090.925331
+Asia,Syria,2007,4184.548089
+Asia,Taiwan,1952,1206.947913
+Asia,Taiwan,1957,1507.86129
+Asia,Taiwan,1962,1822.879028
+Asia,Taiwan,1967,2643.858681
+Asia,Taiwan,1972,4062.523897
+Asia,Taiwan,1977,5596.519826
+Asia,Taiwan,1982,7426.3547739999985
+Asia,Taiwan,1987,11054.56175
+Asia,Taiwan,1992,15215.6579
+Asia,Taiwan,1997,20206.82098
+Asia,Taiwan,2002,23235.42329
+Asia,Taiwan,2007,28718.27684
+Africa,Tanzania,1952,716.6500721
+Africa,Tanzania,1957,698.5356073
+Africa,Tanzania,1962,722.0038073
+Africa,Tanzania,1967,848.2186575
+Africa,Tanzania,1972,915.9850592
+Africa,Tanzania,1977,962.4922932
+Africa,Tanzania,1982,874.2426069
+Africa,Tanzania,1987,831.8220794
+Africa,Tanzania,1992,825.682454
+Africa,Tanzania,1997,789.1862231
+Africa,Tanzania,2002,899.0742111
+Africa,Tanzania,2007,1107.482182
+Asia,Thailand,1952,757.7974177
+Asia,Thailand,1957,793.5774147999998
+Asia,Thailand,1962,1002.199172
+Asia,Thailand,1967,1295.46066
+Asia,Thailand,1972,1524.358936
+Asia,Thailand,1977,1961.2246350000007
+Asia,Thailand,1982,2393.219781
+Asia,Thailand,1987,2982.653773
+Asia,Thailand,1992,4616.896545000001
+Asia,Thailand,1997,5852.625497
+Asia,Thailand,2002,5913.187529
+Asia,Thailand,2007,7458.396326999998
+Africa,Togo,1952,859.8086567
+Africa,Togo,1957,925.9083202
+Africa,Togo,1962,1067.53481
+Africa,Togo,1967,1477.59676
+Africa,Togo,1972,1649.660188
+Africa,Togo,1977,1532.776998
+Africa,Togo,1982,1344.577953
+Africa,Togo,1987,1202.201361
+Africa,Togo,1992,1034.298904
+Africa,Togo,1997,982.2869243
+Africa,Togo,2002,886.2205765000001
+Africa,Togo,2007,882.9699437999999
+Americas,Trinidad and Tobago,1952,3023.271928
+Americas,Trinidad and Tobago,1957,4100.3934
+Americas,Trinidad and Tobago,1962,4997.523971000001
+Americas,Trinidad and Tobago,1967,5621.368472
+Americas,Trinidad and Tobago,1972,6619.551418999999
+Americas,Trinidad and Tobago,1977,7899.554209000001
+Americas,Trinidad and Tobago,1982,9119.528607
+Americas,Trinidad and Tobago,1987,7388.597823
+Americas,Trinidad and Tobago,1992,7370.990932
+Americas,Trinidad and Tobago,1997,8792.573126000001
+Americas,Trinidad and Tobago,2002,11460.60023
+Americas,Trinidad and Tobago,2007,18008.50924
+Africa,Tunisia,1952,1468.475631
+Africa,Tunisia,1957,1395.232468
+Africa,Tunisia,1962,1660.30321
+Africa,Tunisia,1967,1932.3601670000005
+Africa,Tunisia,1972,2753.2859940000008
+Africa,Tunisia,1977,3120.876811
+Africa,Tunisia,1982,3560.2331740000004
+Africa,Tunisia,1987,3810.419296
+Africa,Tunisia,1992,4332.720164
+Africa,Tunisia,1997,4876.798614
+Africa,Tunisia,2002,5722.895654999998
+Africa,Tunisia,2007,7092.923025
+Europe,Turkey,1952,1969.10098
+Europe,Turkey,1957,2218.754257
+Europe,Turkey,1962,2322.869908
+Europe,Turkey,1967,2826.3563870000007
+Europe,Turkey,1972,3450.69638
+Europe,Turkey,1977,4269.122326
+Europe,Turkey,1982,4241.356344
+Europe,Turkey,1987,5089.043686
+Europe,Turkey,1992,5678.348271
+Europe,Turkey,1997,6601.429915
+Europe,Turkey,2002,6508.085718
+Europe,Turkey,2007,8458.276384
+Africa,Uganda,1952,734.753484
+Africa,Uganda,1957,774.3710692000002
+Africa,Uganda,1962,767.2717397999999
+Africa,Uganda,1967,908.9185217
+Africa,Uganda,1972,950.735869
+Africa,Uganda,1977,843.7331372000001
+Africa,Uganda,1982,682.2662267999998
+Africa,Uganda,1987,617.7244065
+Africa,Uganda,1992,644.1707968999998
+Africa,Uganda,1997,816.559081
+Africa,Uganda,2002,927.7210018
+Africa,Uganda,2007,1056.380121
+Europe,United Kingdom,1952,9979.508487
+Europe,United Kingdom,1957,11283.17795
+Europe,United Kingdom,1962,12477.17707
+Europe,United Kingdom,1967,14142.85089
+Europe,United Kingdom,1972,15895.11641
+Europe,United Kingdom,1977,17428.74846
+Europe,United Kingdom,1982,18232.42452
+Europe,United Kingdom,1987,21664.78767
+Europe,United Kingdom,1992,22705.09254
+Europe,United Kingdom,1997,26074.53136
+Europe,United Kingdom,2002,29478.99919
+Europe,United Kingdom,2007,33203.26128
+Americas,United States,1952,13990.482080000002
+Americas,United States,1957,14847.12712
+Americas,United States,1962,16173.14586
+Americas,United States,1967,19530.36557
+Americas,United States,1972,21806.03594
+Americas,United States,1977,24072.63213
+Americas,United States,1982,25009.55914
+Americas,United States,1987,29884.350410000006
+Americas,United States,1992,32003.93224
+Americas,United States,1997,35767.43303
+Americas,United States,2002,39097.09955
+Americas,United States,2007,42951.65309
+Americas,Uruguay,1952,5716.766744
+Americas,Uruguay,1957,6150.772969
+Americas,Uruguay,1962,5603.357717
+Americas,Uruguay,1967,5444.61962
+Americas,Uruguay,1972,5703.408898
+Americas,Uruguay,1977,6504.339663000002
+Americas,Uruguay,1982,6920.223051000001
+Americas,Uruguay,1987,7452.398969
+Americas,Uruguay,1992,8137.004775
+Americas,Uruguay,1997,9230.240708
+Americas,Uruguay,2002,7727.002004000001
+Americas,Uruguay,2007,10611.46299
+Americas,Venezuela,1952,7689.799761
+Americas,Venezuela,1957,9802.466526
+Americas,Venezuela,1962,8422.974165000001
+Americas,Venezuela,1967,9541.474188
+Americas,Venezuela,1972,10505.25966
+Americas,Venezuela,1977,13143.95095
+Americas,Venezuela,1982,11152.41011
+Americas,Venezuela,1987,9883.584648
+Americas,Venezuela,1992,10733.92631
+Americas,Venezuela,1997,10165.49518
+Americas,Venezuela,2002,8605.047831
+Americas,Venezuela,2007,11415.80569
+Asia,Vietnam,1952,605.0664917
+Asia,Vietnam,1957,676.2854477999998
+Asia,Vietnam,1962,772.0491602000002
+Asia,Vietnam,1967,637.1232887
+Asia,Vietnam,1972,699.5016441
+Asia,Vietnam,1977,713.5371196000001
+Asia,Vietnam,1982,707.2357863
+Asia,Vietnam,1987,820.7994449
+Asia,Vietnam,1992,989.0231487
+Asia,Vietnam,1997,1385.896769
+Asia,Vietnam,2002,1764.456677
+Asia,Vietnam,2007,2441.576404
+Asia,West Bank and Gaza,1952,1515.5923289999996
+Asia,West Bank and Gaza,1957,1827.067742
+Asia,West Bank and Gaza,1962,2198.9563120000007
+Asia,West Bank and Gaza,1967,2649.715007
+Asia,West Bank and Gaza,1972,3133.409277
+Asia,West Bank and Gaza,1977,3682.831494
+Asia,West Bank and Gaza,1982,4336.032082
+Asia,West Bank and Gaza,1987,5107.197384
+Asia,West Bank and Gaza,1992,6017.654756
+Asia,West Bank and Gaza,1997,7110.667619
+Asia,West Bank and Gaza,2002,4515.487575
+Asia,West Bank and Gaza,2007,3025.349798
+Asia,"Yemen, Rep.",1952,781.7175761
+Asia,"Yemen, Rep.",1957,804.8304547
+Asia,"Yemen, Rep.",1962,825.6232006
+Asia,"Yemen, Rep.",1967,862.4421463
+Asia,"Yemen, Rep.",1972,1265.047031
+Asia,"Yemen, Rep.",1977,1829.765177
+Asia,"Yemen, Rep.",1982,1977.55701
+Asia,"Yemen, Rep.",1987,1971.741538
+Asia,"Yemen, Rep.",1992,1879.496673
+Asia,"Yemen, Rep.",1997,2117.484526
+Asia,"Yemen, Rep.",2002,2234.820827
+Asia,"Yemen, Rep.",2007,2280.769906
+Africa,Zambia,1952,1147.388831
+Africa,Zambia,1957,1311.956766
+Africa,Zambia,1962,1452.725766
+Africa,Zambia,1967,1777.077318
+Africa,Zambia,1972,1773.498265
+Africa,Zambia,1977,1588.688299
+Africa,Zambia,1982,1408.678565
+Africa,Zambia,1987,1213.315116
+Africa,Zambia,1992,1210.884633
+Africa,Zambia,1997,1071.353818
+Africa,Zambia,2002,1071.6139380000004
+Africa,Zambia,2007,1271.211593
+Africa,Zimbabwe,1952,406.8841148
+Africa,Zimbabwe,1957,518.7642681
+Africa,Zimbabwe,1962,527.2721818
+Africa,Zimbabwe,1967,569.7950712
+Africa,Zimbabwe,1972,799.3621757999998
+Africa,Zimbabwe,1977,685.5876821
+Africa,Zimbabwe,1982,788.8550411
+Africa,Zimbabwe,1987,706.1573059
+Africa,Zimbabwe,1992,693.4207856
+Africa,Zimbabwe,1997,792.4499602999998
+Africa,Zimbabwe,2002,672.0386227000001
+Africa,Zimbabwe,2007,469.70929810000007
