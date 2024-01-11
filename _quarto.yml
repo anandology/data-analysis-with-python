@@ -30,7 +30,10 @@ website:
            - session1.ipynb
            - session2.ipynb
            - session3.ipynb
-      - section: Live Notes
+           - session4.ipynb
+           - session5.ipynb
+           - session6.ipynb
+      - section: Assignments
         contents:
           - assignments/assignment-1.ipynb
 
